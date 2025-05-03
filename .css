@@ -1,0 +1,39 @@
+< ! DOCTYPE   html>
+< html lang="en">
+<head>
+    <meta charset="=UTF-8">
+    <meta neme="viewport"content="width=device-width, initial-scale=1.0">
+
+    <link rel="style.css">
+
+
+    <title> Mi Curriculo</title></title>
+</head>
+<body>
+.contenedor{
+max: width 50%;
+margin :0 auto;
+}
+body
+background-color: aqua;
+div{
+background-color: black;
+padding: 12px;
+}
+
+fieldset}
+margin-bottom: 12px;
+
+legend{
+background-color: aqua;
+padding: 5px;
+border-radius: 20;
+font-weight: bold;
+}
+ing{
+
+    border: 25%;
+    margin-bottom: 20px;
+    margin: right 50px; 
+    float:left;
+}
